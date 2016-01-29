@@ -2,8 +2,10 @@
 Collection of Anki flashcards pertaining to Ruby, Rails and major gems
 
 Currently the deck contains:
-- Rails = %w(validations)
-- Gems = %w(rspec-rails)
+```ruby
+  Rails = %w(validations)
+  Gems = %w(rspec-rails)
+```
 
 I am in the process of adding more of [Active Record](ACtiveadmin.info) and Rails elements such as basic helpers, [Active Support](http://guides.rubyonrails.org/active_support_core_extensions.html) etc, and this repo will be updated along the way. Stay tuned!
 
