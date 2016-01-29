@@ -1,5 +1,5 @@
 # anki_rails
-Collection of Anki flashcards pertaining to Ruby, Rails and major gems
+Collection of [Anki](http://ankisrs.net/) flashcards pertaining to Ruby, Rails and major gems
 
 Currently the deck contains:
 ```ruby
@@ -11,7 +11,7 @@ I am in the process of adding more of [Active Record](ACtiveadmin.info) and Rail
 
 =====
 
-This is a raw export of the actual package, which may be found on AnkiWeb:
+This is a raw export of the actual package, which may be found on [AnkiWeb](https://ankiweb.net/decks/):
 
 https://ankiweb.net/shared/info/1642358939
 
