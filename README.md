@@ -20,7 +20,7 @@ The [main file](https://github.com/coisnepe/anki_rails/blob/master/rails_and_gem
 You're welcome and encouraged to collaborate on this project; simply fork and make pull requests from your `master` branch!
 
 
-###Todo
+### Todo
 ```ruby
   Gems << %w(factory_girl_rails capybara shoulda paperclip cancancan sass pundit sequel)
 ```
