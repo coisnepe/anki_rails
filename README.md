@@ -22,5 +22,5 @@ You're welcome and encouraged to collaborate on this project; simply fork and ma
 
 ### Todo
 ```ruby
-  Gems << %w(factory_girl_rails capybara shoulda paperclip cancancan sass pundit sequel)
+  Gems << %w(factory_bot_rails capybara shoulda paperclip cancancan sass pundit sequel)
 ```
